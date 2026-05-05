@@ -19,6 +19,7 @@
 5. [Let's Build It: Panduan Merakit](#-5-lets-build-it)
 6. [SOP Pakan Bibis](#-6-sop-pakan-bibis)
 7. [Join the Movement](#-7-join-the-movement)
+8. [Ketentuan Penggunaan (License)](#-8-Ketentuan-Penggunaan-(License))
 
 ---
 
@@ -84,3 +85,24 @@ Agar air tetap jernih dan **BEBAS BAU**, gunakan metode **Pakan Bibis**:
 Proyek ini adalah bagian dari ekosistem **Gizmotech**. Kami mengundang para *makers*, pendidik, dan kepala keluarga untuk melakukan *Fork* pada repositori ini, mencoba merakitnya, dan membagikan dokumentasi hasil panen kalian.
 
 **Ayo, Recycle Galon Loe!**
+
+---
+
+## 🛠️ 8: Ketentuan Penggunaan (License)
+Project ini bersifat Open Source di bawah naungan Gizmotech, dedikasi untuk semangat berbagi pengetahuan dan pengembangan DIY bagi masyarakat luas.
+
+**1. Penggunaan yang Diperbolehkan**
+- **Personal & Komunitas**: Bebas digunakan dan dimodifikasi untuk kebutuhan pribadi, hobi, maupun pemberdayaan warga (RT/RW, Karang Taruna, PKK) selama bukan untuk tujuan komersial.
+- **Edukasi & Akademis**: Sangat dianjurkan sebagai bahan pembelajaran, tugas akhir (Skripsi/Tesis), riset, maupun kegiatan pengabdian masyarakat (KKN/Workshop).
+
+**2. Kewajiban & Larangan**
+- **Atribusi (Sitasi)**: Wajib mencantumkan sumber asli jika digunakan dalam karya tulis ilmiah atau konten media (YouTube/SosMed).
+Format Sitasi: [Nama Anda/Username], "[Nama Project]", GitHub Repository, [Tahun], [Link URL]
+- **Non-Komersial: Dilarang keras memperjualbelikan** kode, skema rangkaian, maupun desain fisik dari project ini tanpa izin tertulis.
+- **Etika Berkarya**: Mohon menjaga integritas dengan tidak menghapus identitas pembuat atau watermark di dalam kode program dan dokumentasi.
+
+**3. Izin & Kolaborasi**
+Untuk izin penggunaan komersial, kerjasama implementasi lapangan, atau konsultasi lebih lanjut, silakan hubungi:
+- **Email**: gizmotech.studio@gmail.com
+
+"Mari kita bangun budaya saling menghargai dalam berkarya agar semangat berbagi tetap terjaga."
