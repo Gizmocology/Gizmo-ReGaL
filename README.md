@@ -13,7 +13,7 @@
 
 ## 📖 Daftar Isi
 1. [The "Why": Membangun Jembatan dari Teras](#-1-the-why)
-2. [Meet ReGaL: Ekosistem Modular 4-in-1](#-2-meet-regal)
+2. [Meet ReGaL: Ekosistem Modular 5-in-1](#-2-meet-regal)
 3. [Laboratorium Hidup: Bukan Sekadar Panen](#-3-laboratorium-hidup)
 4. [Tech Stack & Daftar Rongsokan](#-4-tech-stack--daftar-rongsokan)
 5. [Let's Build It: Panduan Merakit](#-5-lets-build-it)
@@ -55,10 +55,10 @@ ReGaL adalah media belajar STEM (*Science, Tech, Engineering, Math*) yang nyata 
 
 ## 🛠️ 4: Tech Stack & "Daftar Rongsokan"
 Hampir semuanya bisa kamu temukan di gudang atau keranjang daur ulang:
-- Galon PET Bekas (15L atau 19L).
-- Tutup Botol Bekas (sebagai katup).
-- Aerator (Pompa Udara) 1 lubang (3-5 Watt).
-- Selang Aerator & Pipa PVC Kecil.
+- Galon PET Bekas.
+- Tutup Botol Bekas (sebagai kran murah atau konektor).
+- Aerator (Pompa Udara akuarium).
+- Selang Aerator & Pipa PVC 1/2 inch atau 3/4 inch.
 - Strip PET daur ulang botol dan serabut kelapa (Media tanam/filter).
 - Cutter, Solder, lem G atau lem tembak.
 
