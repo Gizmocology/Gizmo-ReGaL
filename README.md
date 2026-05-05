@@ -1,5 +1,5 @@
-# Gizmo-RegALL
-# 🌿 RegALL: Recycle Galon Loop
+# Gizmo-ReGaL
+# 🌿 ReGaL: Recycle Galon Loop
 > **Tagline:** *"Recycle Galon Loe!"* — Mengubah sampah menjadi siklus kehidupan.
 
 ![Project Status](https://img.shields.io/badge/Status-Experimental-orange)
@@ -7,7 +7,7 @@
 ![Category](https://img.shields.io/badge/Category-Urban_Farming-blue)
 ![Ecosystem](https://img.shields.io/badge/Ecosystem-Gizmotech-brightgreen)
 
-**ReGalL (Recycle Galon Loop)** adalah platform *Gizmo MicroFarm* modular yang dirancang untuk menghadirkan ekosistem kehidupan mandiri di sudut rumah. Proyek ini bukan sekadar alat bertani, melainkan sebuah laboratorium STEM keluarga yang memanfaatkan material daur ulang dengan pendekatan teknologi tepat guna.
+**ReGaL (Recycle Galon Loop)** adalah platform *Gizmo MicroFarm* modular yang dirancang untuk menghadirkan ekosistem kehidupan mandiri di sudut rumah. Proyek ini bukan sekadar alat bertani, melainkan sebuah laboratorium STEM keluarga yang memanfaatkan material daur ulang dengan pendekatan teknologi tepat guna.
 
 ---
 
