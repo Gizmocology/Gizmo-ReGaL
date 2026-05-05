@@ -93,7 +93,6 @@ Project ini bersifat Open Source di bawah naungan Gizmotech, dedikasi untuk sema
 
 **1. Penggunaan yang Diperbolehkan**
 - **Personal & Komunitas**: Bebas digunakan dan dimodifikasi untuk kebutuhan pribadi, hobi, maupun pemberdayaan warga (RT/RW, Karang Taruna, PKK).
-- **Pemberdayaan Ekonomi**: Kami sangat mendukung jika project ini menjadi peluang usaha bagi masyarakat, atau menjadi penghasilan tambahan pribadi & komunitas adalah bentuk keberhasilan visi Gizmotech dan **sangat diperbolehkan**.
 - **Pemberdayaan Ekonomi**: Kami sangat mendukung jika project ini menjadi pembelajaran budidaya mandiri dan peluang usaha bagi masyarakat, hasil dari budidaya dapat untuk dikonsumsi maupun dijual sebagai penghasilan tambahan.
 - **Edukasi & Akademis**: Sangat dianjurkan sebagai bahan pembelajaran, tugas akhir (Skripsi/Tesis), riset, maupun kegiatan pengabdian masyarakat (KKN/Workshop).
 
